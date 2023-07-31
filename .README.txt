@@ -1,1 +1,3 @@
-asd
+Challenge SN | Alejo Baert
+
+En cada una de las carpetas (backend y frontend) se encuentran un archivo README.md, explicando las estructuras, rutas e información de las mismas.
