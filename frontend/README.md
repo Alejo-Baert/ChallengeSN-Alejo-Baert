@@ -49,7 +49,8 @@
 
 Dentro de la carpeta `components`, se encuentran los siguientes archivos:
 
-`components`
+```
+components
     └── Hero.jsx -> Lo primero que ve un usuario nuevo al entrar a la app. Se encontrará con las opciones de registro e iniciar sesión.
     │
     └── Registro.jsx -> El usuario podrá registrarse ingresando sus datos.
@@ -61,3 +62,4 @@ Dentro de la carpeta `components`, se encuentran los siguientes archivos:
     └── Editar.jsx -> El usuario común podrá editar datos de su perfil. El Admin podrá editar y/o eliminar los usuarios registrados. 
     │
     └── index.js -> Este archivo tiene como función importar los componentes mencionados anteriormente, para luego exportarlos como un objeto.
+```
