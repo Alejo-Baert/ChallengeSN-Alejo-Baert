@@ -40,7 +40,7 @@
 
 ### *Usuario:*
 Es la persona que utiliza la aplicación, puede registrarse e iniciar sesión.
-Hay dos tipos de usuarios en esta aplicacion, el administrador (en el cual sólo puede haber uno), y el usuario común. El primero es capaz de editar y/o eliminar los usuarios registrados, mientras que el segundo puede visualizar su perfil con sus datos y editarlos.
+Hay dos tipos de usuarios en esta aplicacion, el administrador (en el cual sólo puede haber uno con el email "admin@admin.com.ar"), y el usuario común. El primero es capaz de editar y/o eliminar los usuarios registrados, mientras que el segundo puede visualizar su perfil con sus datos y editarlos.
 
 **Atributos**
 |  Nombre  |   Tipo   |
