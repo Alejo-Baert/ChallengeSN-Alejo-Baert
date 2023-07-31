@@ -4,7 +4,7 @@
 
 ### Estructura del proyecto
 
-
+```
 ├── public
 │   ├── images
 │   │   └── ...
@@ -28,6 +28,7 @@
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
+```
 
 
 ### Correr el cliente

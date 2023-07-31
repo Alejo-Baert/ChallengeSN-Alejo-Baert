@@ -4,7 +4,7 @@
 
 ## Estructura del proyecto
 
-
+```
 ├── database
 │   └── ...
 ├── public
@@ -20,7 +20,7 @@
 ├── package-lock.json
 ├── package.json
 └── README.md
-
+```
 
 ### Correr el servidor
 - Utilizar `npm run start`.
